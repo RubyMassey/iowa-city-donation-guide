@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://rubymassey.github.io/iowa-city-donation-guide/sitemap.xml
